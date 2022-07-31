@@ -23,5 +23,5 @@ p {
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    -webkit-background-clip: text;
+    -webkit-background-clip: text;color: ;
 }
