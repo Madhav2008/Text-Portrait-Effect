@@ -18,5 +18,5 @@ p {
     font-size: 1.5em;
     letter-spacing: -0.05em;
     line-height: 0.7em;
-    background: url(face.png);
+    background: url(face.png);background-position-x: ;
 }
