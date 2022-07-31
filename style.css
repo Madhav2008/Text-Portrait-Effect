@@ -22,5 +22,6 @@ p {
     background-blend-mode: color-dodge;
     background-position: center;
     background-attachment: fixed;
-    background-size: cover;-webkit-background-clip: text;
+    background-size: cover;
+    -webkit-background-clip: text;
 }
