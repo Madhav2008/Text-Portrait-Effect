@@ -20,5 +20,6 @@ p {
     line-height: 0.7em;
     background: url(face.png);
     background-position: center;
-    background-attachment: fixed;background-size: ;
+    background-attachment: fixed;
+    background-size: ;
 }
